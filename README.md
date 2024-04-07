@@ -19,6 +19,7 @@ I'm Saran, a passionate cybersecurity enthusiast and graduate student based in U
 - eJPT
   <h1 align='left'>
    <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/99810708">
+    <img src="https://github.com/saran-gintoki/saran-gintoki/assets/111878795/881d5543-0ae2-4e04-aeb7-d7700ad3a819"";/>
   </a>
   </h1>
 - Enterprise Design Thinking Practitioner (IBM)
