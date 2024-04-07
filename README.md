@@ -16,6 +16,11 @@ I'm Saran, a passionate cybersecurity enthusiast and graduate student based in U
     <img src="https://github.com/saran-gintoki/saran-gintoki/assets/111878795/9bd38d36-ceac-4f68-b55e-09c36b9d80f7"";/>
   </a>
   </h1>
+- eJPT
+  <h1 align='left'>
+   <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/99810708">
+  </a>
+  </h1>
 - Enterprise Design Thinking Practitioner (IBM)
 - Practical Ethical Hacking(TCM Security)
 - Certified Network Security Specialist (Cisco)
