@@ -32,9 +32,13 @@ I'm Saran, a passionate cybersecurity enthusiast and graduate student based in U
   <a href="https://www.linkedin.com/in/saransenthilanand">
     <img src="https://github.com/saran-gintoki/saran-gintoki/assets/111878795/b2aa48c4-9bb4-4afd-9420-80da3c52b8b8"width="40" height="55";"/>
   </a>
+  </h1>
+  <h1>
    <a href=" https://tryhackme.com/p/Sakthisaran">
     <img src="https://github.com/saran-gintoki/saran-gintoki/assets/111878795/afcfff62-486d-4307-9a3f-c5e30dbb641a"width="40" height="55";"/>
   </a>
+    </h1>
+    <h1>
   <a href=" https://medium.com/@SaranGintoki">
     <img src="https://github.com/saran-gintoki/saran-gintoki/assets/111878795/91dd2c09-ff6f-4c00-be94-7d9ea684951f"width="40" height="55";"/>
   </a>
